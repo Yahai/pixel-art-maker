@@ -1,2 +1,2 @@
 # pixel-art-maker
- yahai.github.io
+ https://yahai.github.io/pixel-art-maker/
